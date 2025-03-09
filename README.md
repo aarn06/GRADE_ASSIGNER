@@ -1,5 +1,6 @@
 
 
-Creating a code that assigns a letter grade based on their score using pydroid 3.
+CREATING A CODE THAT ASSIGNS A LETTER GRADE TO A STUDENT BASED ON THEIR SCORE USING THONNY.
 
-Youtube Link:
+YOUTUBE LINK:
+https://youtu.be/Th5ETEmjnRc?si=56qFQ8JztsnHRcdM
